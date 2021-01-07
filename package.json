@@ -1,12 +1,12 @@
 {
-    "name": "gitbook-plugin-sectionx",
+    "name": "gitbook-plugin-sectionx-cn",
     "description": "A GitBook plugin for separating the page into sections.",
     "main": "index.js",
     "version": "3.1.0",
     "engines": {
         "gitbook": ">=3.x.x"
     },
-    "keywords": ["section", "gitbook", "interactive", "panel"],
+    "keywords": ["section", "gitbook", "interactive", "panel", "sectionx-cn"],
     "dependencies": {
         "cheerio": "*"
     },
