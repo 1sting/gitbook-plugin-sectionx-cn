@@ -10,13 +10,13 @@
     "dependencies": {
         "cheerio": "*"
     },
-    "homepage": "https://github.com/ymcatar/gitbook-plugin-sectionx",
+    "homepage": "https://github.com/1sting/gitbook-plugin-sectionx-cn",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ymcatar/gitbook-plugin-sectionx.git"
+        "url": "https://github.com/1sting/gitbook-plugin-sectionx-cn.git"
     },
     "license": "GPL-3.0",
     "bugs": {
-        "url": "https://github.com/ymcatar/gitbook-plugin-sectionx/issues"
+        "url": "https://github.com/1sting/gitbook-plugin-sectionx-cn/issues"
     }
 }
